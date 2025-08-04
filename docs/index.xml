@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>risouf.net</title>
-    <link>https://risouf.net/</link>
+    <link>https://www.risouf.net/</link>
     <description>Recent content on risouf.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <managingEditor>risou.f@gmail.com (risou)</managingEditor>
     <webMaster>risou.f@gmail.com (risou)</webMaster>
-    <atom:link href="https://risouf.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.risouf.net/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

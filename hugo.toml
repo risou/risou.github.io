@@ -1,4 +1,4 @@
-baseURL = 'https://risouf.net/'
+baseURL = 'https://www.risouf.net/'
 languageCode = 'ja-jp'
 title = 'risouf.net'
 publishDir = 'docs'
@@ -9,7 +9,7 @@ publishDir = 'docs'
 
 [params]
 user = "risou"
-hostname = "risouf.net"
+hostname = "www.risouf.net"
 published = false
 readingTime = false
 footerHtml = '© 2025 risou'
