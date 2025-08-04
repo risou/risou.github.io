@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://risouf.net/'
+languageCode = 'ja-jp'
+title = 'risouf.net'
 
 [module]
   [[module.imports]]
