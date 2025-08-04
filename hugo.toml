@@ -1,6 +1,7 @@
 baseURL = 'https://risouf.net/'
 languageCode = 'ja-jp'
 title = 'risouf.net'
+publishDir = 'docs'
 
 [module]
   [[module.imports]]
