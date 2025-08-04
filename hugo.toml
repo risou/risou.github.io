@@ -6,3 +6,39 @@ title = 'My New Hugo Site'
   [[module.imports]]
     path = 'github.com/LordMathis/hugo-theme-nightfall'
 
+[params]
+user = "risou"
+hostname = "risouf.net"
+published = false
+readingTime = false
+footerHtml = '© 2025 risou'
+
+  [params.author]
+    name = "risou"
+    avatar = "https://gravatar.com/avatar/72e78d4fcf436ccc6860bc36f57fa7ad"
+    avatarSize = "size-m"
+    email = "risou.f@gmail.com"
+    avatarFirst = false
+
+  [[params.social]]
+  key = 0
+  name = "github"
+  url = "https://github.com/risou"
+  icon = "fa-brands fa-github"
+  target = "_blank"
+  aria = "GitHub Profile"
+
+  [[params.social]]
+  key = 1
+  name = "twitter"
+  url = "https://twitter.com/risou"
+  icon = "fa-brands fa-twitter"
+  target = "_blank"
+  aria = "Twitter Profile"
+
+[menu]
+  [[menu.header]]
+    name = "Blog"
+    url = "https://blog.risouf.net"
+    weight = 0
+
