@@ -9,7 +9,7 @@ publishDir = 'docs'
 
 [params]
 user = "risou"
-hostname = "www.risouf.net"
+hostname = "risouf.net"
 published = false
 readingTime = false
 footerHtml = '© 2025 risou'
